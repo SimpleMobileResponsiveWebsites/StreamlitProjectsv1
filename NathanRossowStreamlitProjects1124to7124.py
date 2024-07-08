@@ -16,6 +16,7 @@ st.write("""
 - Deployed the application using streamlit cloud.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/BurstProjectManagementSoftware/blob/main/VCSToPDF.py)
 - [Go To App](https://vcstopdf.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=ddl4bVOFxUM)
 """)
 
 st.subheader("Supply Chain Analytics for Audio Equipment")
@@ -27,6 +28,7 @@ data-driven business strategies and operations.
 - Deployed the solution using Streamlit Cloud.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/Supply-Chain-Analytics-For-Audio-Equipment)
 - [Go To App](https://supply-chain-analytics-for-audio-equipmentv3.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=yjYKrHWjysU)
 """)
 
 st.subheader("CNC Manufacturing v1")
@@ -61,7 +63,7 @@ st.subheader("Streamlit Widgets v1")
 st.write("""
 - Developed and designed a streamlit web application to show clients what streamlit widgets are available to them for their application during the design process. 
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/StreamlitWidgetsV1)
-- [Go To App](https://vcstopdfv3.streamlit.app/)
+- [Go To App](https://stwidgetsforapplciationdevelopmentv1.streamlit.app/)
 """)
 
 st.subheader("Burst Project Management Software v3")
@@ -92,11 +94,12 @@ st.write("""
 - [Go To App](https://vcstopdfv2.streamlit.app/)
 """)
 
-st.subheader("Tasks In JSON Array To Dashboard")
+st.subheader("Tasks In JSON Array To Dataframe v1 To CSV")
 st.write("""
 - Developed a streamlit application that allows users to input a JSON array, convert it into a DataFrame, and download the DataFrame as a CSV file.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/TasksInJSONArrayToDashboard)
 - [Go To App](https://tasksinjsonarraytodashboardv1.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=1PdrGxN3Mlw)
 """)
 
 st.subheader("Time Management Tools To JSON v1")
@@ -104,6 +107,7 @@ st.write("""
 - Developed a streamlit web application designed for managing tasks and time effectively.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/TimeMangementTools/blob/main/TimeManagementToolsToJSONv1.py)
 - [Go To App](https://timemanagementtoolstojsonv1.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=N7HprIgb7pY)
 """)
 
 st.subheader("Google Ads Spend Visualization")
@@ -111,6 +115,7 @@ st.write("""
 - Developed a streamlit web application for visualizing Google Ads spend data.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/GoogleAdsSpendVisualization/blob/main/GoogleAdsSpendVisualizationv1.py)
 - [Go To App](https://digitalrecipe.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=lZ_im460GcQ)
 """)
 
 st.subheader("Digital Recipe")
@@ -118,6 +123,7 @@ st.write("""
 - Developed a streamlit web application for creating, managing, and downloading recipes.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/DigitalRecipe)
 - [Go To App](https://digitalrecipe.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=kHrObZIYg3M)
 """)
 
 st.subheader("Audio Agenda")
@@ -125,6 +131,7 @@ st.write("""
 - Developed a streamlit web application named "Audio Agenda" for managing and visualizing the production status of various musical instruments.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/Audio-Agenda)
 - [Go To App](https://audio-agenda.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=0WgVuM6sqSI)
 """)
 
 st.subheader("Task Regression")
@@ -132,6 +139,7 @@ st.write("""
 - Developed a streamlit web application that facilitates task management and content organization with the ability to save tasks, links, uploaded files, text entries, and code snippets associated with each task.
 - [GitHub Repository](https://github.com/SimpleMobileResponsiveWebsites/TaskRegression)
 - [Go To Application](https://taskregression-nd9fndntyb22oc97txsbj4.streamlit.app/)
+- [See How The Application Works](https://www.youtube.com/watch?v=pGilfqBZXLw)
 """)
 
 # Run the Streamlit app
